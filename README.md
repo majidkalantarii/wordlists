@@ -1,4 +1,4 @@
-# Awesome Wordlists [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Sagheb Awesome Wordlists [![Awesome](http://saghebcenter.ir/logo.png)](http://saghebcenter.ir)
 A curated list of wordlists for bruteforcing and fuzzing
 
 --------------------
